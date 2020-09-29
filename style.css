@@ -1,0 +1,26 @@
+table{
+color: white;
+    
+}
+header{
+    background: black;
+}
+.heading{
+    column-span: all;
+}
+.content{
+    column-count: 4;
+    column-rule: 2px solid black;
+    column-fill: balance;
+    text-align: justify;
+    column-gap: 15px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 5px;
+}
+td{
+    padding: 5px;
+}
